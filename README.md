@@ -1,10 +1,9 @@
 # Introduction #
 
-Hello, reader! My name is Emilie Théberge - currently a MSc. student in UBC's Medical Genetics Program.
-I'm co-supervised by [Dr. Jessica Dennis](https://twitter.com/JessicaKDennis) and [Dr. Wendy Robinson](https://twitter.com/wprobins27), and I can be found between their labs at BC Children's Hospital Research Institute (BCCHRI). 
+Hello, reader! My name is Emilie Théberge, and I recently finished my MSc. in Medical Genetics at UBC. You may read my thesis [here](), titled: "Investigating sex differences in the polygenic risk of major depressive disorder and shared associations with cardiovascular disease". Currently I work as clinical research coordinator in a few heart disease studies at VGH, and am applying for medical schools.
 
-## My Research #
+## This repo #
 
-For my Master's thesis, I am investigating sex differences in polygenic risk of depression subtypes and shared associations with cardiovascular disease. 
+I will eventually be putting some code and other materials on here from my thesis work. Stay tuned!
 
-Depression is complex and heterogeneous, and there are a number of ways to subtype it - I'd refer to this excellent paper from [Cai et al. (2019)](https://academic.oup.com/hmg/article/29/R1/R10/5860824) to get introduced to this trait's complexity, if you're interested. Cardiovascular disease is a broad term, and I am going to be investigating outcomes (ie. myocardial infarction, "heart attacks") typically associated with coronary artery disease. 
+Otherwise, I made an "Intro to Coding" repo aimed at beginners who are just stepping into the computational world with the aim to analyze data - but not knowing the languages yet, or where to start. So, I made this resource to hopefully be a helpful "launch pad" from which people could individualize their own learning journeys - if you're one of those people, I hope you find it helpful!
