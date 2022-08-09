@@ -1,6 +1,6 @@
 # Introduction #
 
-Hello, reader! My name is Emilie Théberge, and I recently finished my MSc. in Medical Genetics at UBC. You may read my thesis [here](https://dx.doi.org/10.14288/1.0416545), titled: "Investigating sex differences in the polygenic risk of major depressive disorder and shared associations with cardiovascular disease". Currently I work as clinical research coordinator in a few heart disease studies at VGH, and am applying for medical schools. More details in my LinkedIn [here](www.linkedin.com/in/emilietheberge).
+Hello, reader! My name is Emilie Théberge, and I recently finished my MSc. in Medical Genetics at UBC. You may read my thesis [here](https://dx.doi.org/10.14288/1.0416545), titled: "Investigating sex differences in the polygenic risk of major depressive disorder and shared associations with cardiovascular disease". Currently I work as clinical research coordinator in a few heart disease studies at VGH, and am applying to medical school with a long-term goal to advocate for the integration of genomics research ("precision health medicine") and sex/gender-differences-aware research into practice as a clinician-scientist. More details in my LinkedIn [here](www.linkedin.com/in/emilietheberge).
 
 ## This repo #
 
