@@ -6,4 +6,6 @@ Hello, reader! My name is Emilie Théberge, and I recently finished my MSc. in M
 
 I will eventually be putting some code and other materials on here from my thesis work. Stay tuned!
 
-Otherwise, I made an "Intro to Coding" repo aimed at beginners who are just stepping into the computational world with the aim to analyze data - but not knowing the languages yet, or where to start. So, I made this resource to hopefully be a helpful "launch pad" from which people could individualize their own learning journeys - if you're one of those people, I hope you find it helpful!
+Otherwise, I made an "[Intro to Coding](https://github.com/ettheberge/Coding_Intro)" repo aimed at beginners who are just stepping into the computational world with the aim to analyze data - but not knowing the languages yet, or where to start. So, I made this resource to hopefully be a helpful "launch pad" from which people could individualize their own learning journeys - if you're one of those people, I hope you find it helpful!
+
+I was also invited as a guest workshop speaker at the first year's round of [Precision Health Initiative Workshops](https://github.com/Phillip-a-richmond/PrecisionHealthVirtualEnvironment/tree/main/Workshops) led by Dr. Phil Richmond at the BCCHR, full details here, where I co-led a workshop about how to investigate and analyze SNP data. 
